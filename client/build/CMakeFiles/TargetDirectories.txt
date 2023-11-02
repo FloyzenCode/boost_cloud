@@ -1,0 +1,3 @@
+/Users/floyz/VSCode/cpp/CloudStorage/client/build/CMakeFiles/client.dir
+/Users/floyz/VSCode/cpp/CloudStorage/client/build/CMakeFiles/edit_cache.dir
+/Users/floyz/VSCode/cpp/CloudStorage/client/build/CMakeFiles/rebuild_cache.dir
