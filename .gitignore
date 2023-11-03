@@ -3,3 +3,5 @@
 /docker
 /server/Dockerfile
 /client/Dockerfile
+/server/build
+/client/build
